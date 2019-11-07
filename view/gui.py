@@ -8,7 +8,7 @@ class MainGUI(object):
 
         root = tk.Tk()
         root.minsize(400,200)
-        root.title("Automatio")
+        root.title("SimpleMakroTool")
 
 
         #Menu
